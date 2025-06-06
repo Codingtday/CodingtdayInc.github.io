@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.vscode"
+		},
+		{
+			"name": "ESP32 videogame controller",
+			"path": "../PlatformIO/Projects/ESP32 videogame controller"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
